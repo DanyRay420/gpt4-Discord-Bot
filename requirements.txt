@@ -107,4 +107,4 @@ Werkzeug==2.3.6
 wrapt==1.15.0
 yarl==1.9.2
 yfinance==0.2.27
-zipp==3.16.2
+zipp==3.19.1
